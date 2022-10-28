@@ -1,126 +1,121 @@
-Package                           Version
---------------------------------- ------------------
-anyio                             3.6.2
-appnope                           0.1.3
-argon2-cffi                       21.3.0
-argon2-cffi-bindings              21.2.0
-asttokens                         2.0.5
-attrs                             22.1.0
-backcall                          0.2.0
-backports.functools-lru-cache     1.6.4
-beautifulsoup4                    4.11.1
-bleach                            5.0.1
-brotlipy                          0.7.0
-bs4                               0.0.1
-certifi                           2022.9.24
-cffi                              1.15.1
-charset-normalizer                2.0.12
-click                             8.1.3
-colorama                          0.4.5
-cryptography                      38.0.1
-cycler                            0.11.0
-debugpy                           1.5.1
-decorator                         5.1.1
-defusedxml                        0.7.1
-entrypoints                       0.4
-executing                         0.8.3
-fastjsonschema                    2.16.2
-fasttext                          0.9.2
-filelock                          3.8.0
-flit_core                         3.7.1
-fonttools                         4.25.0
-huggingface-hub                   0.10.1
-idna                              3.4
-importlib-metadata                4.11.3
-ipykernel                         6.16.2
-ipython                           8.2.0
-ipython-genutils                  0.2.0
-jedi                              0.18.1
-jieba                             0.42.1
-Jinja2                            3.1.2
-joblib                            1.1.1
-jsoncsv                           2.2.5
-jsonschema                        4.16.0
-jupyter-client                    7.2.2
-jupyter-contrib-core              0.4.0
-jupyter-contrib-nbextensions      0.5.1
-jupyter-core                      4.9.2
-jupyter-highlight-selected-word   0.2.0
-jupyter-latex-envs                1.4.6
-jupyter-nbextensions-configurator 0.4.1
-jupyter-server                    1.21.0
-jupyterlab-pygments               0.2.2
-kiwisolver                        1.4.2
-lxml                              4.9.1
-MarkupSafe                        2.1.1
-matplotlib                        3.5.1
-matplotlib-inline                 0.1.3
-mistune                           2.0.4
-mpmath                            1.2.1
-munkres                           1.1.4
-nbclassic                         0.4.5
-nbclient                          0.7.0
-nbconvert                         7.2.3
-nbformat                          5.7.0
-nest-asyncio                      1.5.5
-networkx                          2.8.7
-notebook                          6.5.1
-notebook_shim                     0.2.0
-numpy                             1.23.3
-packaging                         21.3
-pandas                            1.5.1
-pandocfilters                     1.5.0
-parso                             0.8.3
-pexpect                           4.8.0
-pickleshare                       0.7.5
-Pillow                            9.0.1
-pip                               21.2.4
-prometheus-client                 0.15.0
-prompt-toolkit                    3.0.29
-protobuf                          3.20.0
-psutil                            5.9.3
-ptyprocess                        0.7.0
-pure-eval                         0.2.2
-pybind11                          2.10.0
-pycparser                         2.21
-Pygments                          2.11.2
-pyOpenSSL                         22.0.0
-pyparsing                         3.0.9
-pyrsistent                        0.18.1
-PySocks                           1.7.1
-python-dateutil                   2.8.2
-pytz                              2022.5
-PyYAML                            6.0
-pyzmq                             22.3.0
-regex                             2022.9.13
-requests                          2.28.1
-sacremoses                        0.0.43
-Send2Trash                        1.8.0
-sentencepiece                     0.1.97
-setuptools                        61.2.0
-six                               1.16.0
-sniffio                           1.3.0
-soupsieve                         2.3.2.post1
-stack-data                        0.2.0
-sympy                             1.11.1
-terminado                         0.17.0
-testpath                          0.6.0
-tinycss2                          1.2.1
-tokenizers                        0.12.1
-torch                             1.14.0.dev20221019
-torchaudio                        0.13.0.dev20221019
-torchtext                         0.6.0
-torchvision                       0.12.0
-tornado                           6.1
-tqdm                              4.63.0
-traitlets                         5.5.0
-transformers                      4.23.1
-typing_extensions                 4.3.0
-unicodecsv                        0.14.1
-urllib3                           1.26.12
-wcwidth                           0.2.5
-webencodings                      0.5.1
-websocket-client                  1.4.1
-wheel                             0.37.1
-xlwt                              1.3.0
-zipp                              3.8.0
+anyio==3.6.2
+appnope @ file:///home/conda/feedstock_root/build_artifacts/appnope_1649077682618/work
+argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1640817743617/work
+argon2-cffi-bindings @ file:///Users/runner/miniforge3/conda-bld/argon2-cffi-bindings_1666850755229/work
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+attrs==22.1.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
+beautifulsoup4 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-15cbtalq/beautifulsoup4_1650462161715/work
+bleach==5.0.1
+brotlipy==0.7.0
+bs4==0.0.1
+certifi==2022.9.24
+cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f9af_qffaa/croots/recipe/cffi_1659598650277/work
+charset-normalizer==2.0.12
+click==8.1.3
+colorama @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_3869f9b6-58cd-44b5-91bc-7c91ac68cb78jmcb8z2g/croots/recipe/colorama_1657009088885/work
+cryptography @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_20erp7jjos/croot/cryptography_1665612656373/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+debugpy @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/debugpy_1637092214173/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fastjsonschema @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_43a0jaiddu/croots/recipe/python-fastjsonschema_1661368628129/work
+fasttext==0.9.2
+filelock==3.8.0
+flit_core @ file:///home/conda/feedstock_root/build_artifacts/flit-core_1645629044586/work/source/flit_core
+fonttools==4.25.0
+huggingface-hub==0.10.1
+idna @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_771olrhiqw/croot/idna_1666125579282/work
+importlib-metadata @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-5pqd2z6f/importlib-metadata_1648710902288/work
+ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1666723502644/work
+ipython @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-6azbiq8u/ipython_1649078957462/work
+ipython-genutils==0.2.0
+jedi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-f1t6hma6/jedi_1644315882177/work
+jieba==0.42.1
+Jinja2 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_9fjgzv9ant/croot/jinja2_1666908141308/work
+joblib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_70fph11sxu/croot/joblib_1666298846160/work
+jsoncsv==2.2.5
+jsonschema @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e5_l6coyjh/croots/recipe/jsonschema_1663375475589/work
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1649340884673/work
+jupyter-contrib-core @ file:///home/conda/feedstock_root/build_artifacts/jupyter_contrib_core_1657548529421/work
+jupyter-contrib-nbextensions @ file:///home/conda/feedstock_root/build_artifacts/jupyter_contrib_nbextensions_1614931162960/work
+jupyter-core @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-anh1svu1/jupyter_core_1647002198153/work
+jupyter-highlight-selected-word @ file:///Users/runner/miniforge3/conda-bld/jupyter_highlight_selected_word_1638383027717/work
+jupyter-latex-envs @ file:///home/conda/feedstock_root/build_artifacts/jupyter_latex_envs_1614852190293/work
+jupyter-nbextensions-configurator @ file:///Users/runner/miniforge3/conda-bld/jupyter_nbextensions_configurator_1614793039022/work
+jupyter-server==1.21.0
+jupyterlab-pygments==0.2.2
+kiwisolver @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_69de275f-e01d-4033-8ea6-9caf70c31072d5uirqak/croots/recipe/kiwisolver_1653292042660/work
+lxml @ file:///Users/runner/miniforge3/conda-bld/lxml_1656759438496/work
+MarkupSafe @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_12c133f5-0720-4727-9c18-599a3af825723lzwham3/croots/recipe/markupsafe_1654597866058/work
+matplotlib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-_3usbnl1/matplotlib-suite_1647506475477/work
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1631080358261/work
+mistune==2.0.4
+mpmath==1.2.1
+munkres==1.1.4
+nbclassic==0.4.5
+nbclient==0.7.0
+nbconvert==7.2.3
+nbformat==5.7.0
+nest-asyncio @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-xymukih3/nest-asyncio_1649931465456/work
+networkx==2.8.7
+notebook==6.5.1
+notebook_shim==0.2.0
+numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_da25c32lb6/croot/numpy_and_numpy_base_1665773179465/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.5.1
+pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.0.1
+prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1665692535292/work
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1649130487073/work
+protobuf==3.20.0
+psutil @ file:///Users/runner/miniforge3/conda-bld/psutil_1666772144989/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pybind11==2.10.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_3b_3vxnd07/croots/recipe/pyparsing_1661452540919/work
+pyrsistent==0.18.1
+PySocks @ file:///Users/ktietz/Code/oss/ci_pkgs/pysocks_1626781349491/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2022.5
+PyYAML==6.0
+pyzmq @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/pyzmq_1638447141825/work
+regex==2022.9.13
+requests @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b15e28ca-768e-4951-b4c6-8a7476e43183hrjpnkg9/croots/recipe/requests_1657734638595/work
+sacremoses @ file:///tmp/build/80754af9/sacremoses_1633107328213/work
+Send2Trash @ file:///home/conda/feedstock_root/build_artifacts/send2trash_1628511208346/work
+sentencepiece==0.1.97
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.0
+soupsieve @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d2jpk7eoyp/croot/soupsieve_1666296398381/work
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+sympy==1.11.1
+terminado @ file:///Users/runner/miniforge3/conda-bld/terminado_1666707848606/work
+testpath @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_8eff48dc-c5e8-4dc1-bdf5-49b333fc562a74hpzn48/croots/recipe/testpath_1655908554731/work
+tinycss2==1.2.1
+tokenizers==0.12.1
+torch==1.14.0.dev20221019
+torchaudio==0.13.0.dev20221019
+torchtext==0.6.0
+torchvision==0.12.0
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1625488956802/work
+tqdm @ file:///opt/conda/conda-bld/tqdm_1647339053476/work
+traitlets==5.5.0
+transformers==4.23.1
+typing_extensions @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_27esv8zrkq/croots/recipe/typing_extensions_1659638827591/work
+unicodecsv==0.14.1
+urllib3 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_eetjnk38s1/croot/urllib3_1666298946680/work
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
+webencodings==0.5.1
+websocket-client==1.4.1
+xlwt==1.3.0
+zipp @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_66c2c5f2-5dd5-4946-a16a-72af650ebd6cnmz4ou0f/croots/recipe/zipp_1652343960956/work
